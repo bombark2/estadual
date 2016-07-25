@@ -3,3 +3,5 @@ Membro{name="Clovis Bombardelli"}
 Membro{name="Thomaz"}
 Membro{name="Sebas"}
 Membro{name="Leonardo"}
+Membro{name="Patricia"}
+Membro{name="Camila"}
