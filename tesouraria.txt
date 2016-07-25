@@ -1,0 +1,3 @@
+Recv{from="@../../parana/Membro:felipebombardelli";to="Projeto:coletaassinatura";value=10000}
+Send{from="@../../parana/Membro:felipebombardelli";to="Projeto:coletaassinatura";value=10000}
+

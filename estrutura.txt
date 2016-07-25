@@ -1,0 +1,7 @@
+Periodo{
+	ano=2016
+	Secretario{name="@Membro:felipebombardelli"}
+	Secretario{name="@Membro:felipebombardelli"}
+	Tesoureiro{name="@Membro:felipebombardelli"}
+	Tesoureiro{name="@Membro:felipebombardelli"}
+}
