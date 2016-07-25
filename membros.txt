@@ -5,3 +5,4 @@ Membro{name="Sebas"}
 Membro{name="Leonardo"}
 Membro{name="Patricia"}
 Membro{name="Camila"}
+Membro{name="mais um"}
